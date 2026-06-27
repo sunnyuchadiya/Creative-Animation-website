@@ -1,7 +1,4 @@
-![2025-11-1014 06 34-ezgif com-optimize](https://github.com/user-attachments/assets/290d7236-7baf-4ed7-ab3a-3b190eabf105)
 
-
-Obys
 
 A modern portfolio website with smooth scroll,  stylish preloader, WebGL/3D hover effects and GSAP-driven animations.
 
