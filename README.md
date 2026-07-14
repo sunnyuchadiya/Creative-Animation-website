@@ -4,7 +4,6 @@ A modern portfolio website with smooth scroll,  stylish preloader, WebGL/3D hove
 
 
 ✨ Features:-
-
 📱 Fully responsive layout
 
 🎞️ GSAP animations (ScrollTrigger, SplitText, ScrollSmoother*)-
