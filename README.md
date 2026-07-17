@@ -2,7 +2,6 @@
 
 A modern portfolio website with smooth scroll,  stylish preloader, WebGL/3D hover effects and GSAP-driven animations.
 
-
 ✨ Features:-
 📱 Fully responsive layout
 
